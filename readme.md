@@ -1,12 +1,12 @@
-<h1 align="center"> Portifolio </h1>
+<h1 align="center"> Portfolio </h1>
 
 ## :memo: Descrição
-Projeto aonde foi realizada a criação de um portifolio simples, aonde são linkados todos os projetos desenvolvidos.
+Projeto aonde foi realizada a criação de um portfolio simples, aonde são linkados todos os projetos desenvolvidos.
 
 ![Portifolio](https://user-images.githubusercontent.com/72527282/199252981-eea0000d-1775-4814-912b-0aef6e95971d.gif)
 
 ## :books: Funcionalidades
-* <b>Portifolio pessoal</b>
+* <b>Portfolio pessoal</b>
 * <b>Exibir projetos</b>
 * <b>Exibir informações de contato</b>
 
@@ -33,4 +33,4 @@ Projeto aonde foi realizada a criação de um portifolio simples, aonde são lin
 
 ## :dart: Status do projeto
  * Projeto atualmente FINALIZADO!
- * URL: https://victorpoliveira2002.github.io/Portifolio/
+ * URL: 
