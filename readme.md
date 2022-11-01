@@ -33,4 +33,4 @@ Projeto aonde foi realizada a criação de um portifolio simples, aonde são lin
 
 ## :dart: Status do projeto
  * Projeto atualmente FINALIZADO!
- * URL: 
+ * URL: https://victorpoliveira2002.github.io/Portifolio/
