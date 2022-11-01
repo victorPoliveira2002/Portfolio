@@ -33,4 +33,4 @@ Projeto aonde foi realizada a criação de um portfolio simples, aonde são link
 
 ## :dart: Status do projeto
  * Projeto atualmente FINALIZADO!
- * URL: 
+ * URL: https://victorpoliveira2002.github.io/Portfolio/
